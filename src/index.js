@@ -1,8 +1,8 @@
 import './styles/styles.css';
 
-// const plusBtn = document.querySelector('.plus');
-// const minusBtn = document.querySelector('.minus');
-// const textContainer = document.querySelector('span');
+const plusBtn = document.querySelector('.plus');
+const minusBtn = document.querySelector('.minus');
+const textContainer = document.querySelector('.');
 
 // let data = 0;
 
